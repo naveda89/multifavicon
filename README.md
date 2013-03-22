@@ -1,0 +1,4 @@
+multifavicon
+============
+
+Webpage favicon generator
